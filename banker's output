@@ -1,0 +1,117 @@
+Enter number of resources
+4
+Enter number of process
+5
+Enter allocation details
+Enter resource allocation for process=1
+Enter allocation of resource=1
+0
+Enter allocation of resource=2
+0
+Enter allocation of resource=3
+1
+Enter allocation of resource=4
+2
+Enter resource allocation for process=2
+Enter allocation of resource=1
+1
+Enter allocation of resource=2
+0
+Enter allocation of resource=3
+0
+Enter allocation of resource=4
+0
+Enter resource allocation for process=3
+Enter allocation of resource=1
+1
+Enter allocation of resource=2
+3
+Enter allocation of resource=3
+5
+Enter allocation of resource=4
+4
+Enter resource allocation for process=4
+Enter allocation of resource=1
+0
+Enter allocation of resource=2
+6
+Enter allocation of resource=3
+3
+Enter allocation of resource=4
+2
+Enter resource allocation for process=5
+Enter allocation of resource=1
+0
+Enter allocation of resource=2
+0
+Enter allocation of resource=3
+1
+Enter allocation of resource=4
+4
+Enter max instances
+Enter max instances for process=1
+Enter max instances of resource=1
+0
+Enter max instances of resource=2
+0
+Enter max instances of resource=3
+1
+Enter max instances of resource=4
+1
+Enter max instances for process=2
+Enter max instances of resource=1
+1
+Enter max instances of resource=2
+7
+Enter max instances of resource=3
+5
+Enter max instances of resource=4
+0
+Enter max instances for process=3
+Enter max instances of resource=1
+2
+Enter max instances of resource=2
+3
+Enter max instances of resource=3
+5
+Enter max instances of resource=4
+6
+Enter max instances for process=4
+Enter max instances of resource=1
+0
+Enter max instances of resource=2
+6
+Enter max instances of resource=3
+5
+Enter max instances of resource=4
+2
+Enter max instances for process=5
+Enter max instances of resource=1
+0
+Enter max instances of resource=2
+6
+Enter max instances of resource=3
+5
+Enter max instances of resource=4
+6
+Enter no of instances availabel
+1 5 2 0
+Need matrix=
+0 0 0 -1
+0 7 5 0
+1 0 0 2
+0 0 2 0
+0 6 4 2
+Process that are executed
+1 -1 3 4 5
+Process that are remaining
+2
+Process that are executed
+1 2 3 4 5
+Process that are remaining
+
+Safe state
+
+--------------------------------
+Process exited after 79.48 seconds with return value 0
+Press any key to continue . . .
